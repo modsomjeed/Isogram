@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "/Users/odds-kwang/Documents/Kwang/Project/Code Challenge/Isogram/Isogram/Isogram.csproj",
+  "TargetFramework": "netcoreapp2.2",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+/Users/odds-kwang/Documents/Kwang/Project/Code Challenge/Isogram/IsogramTest/obj/Debug/netcoreapp2.2/IsogramTest.csprojAssemblyReference.cache
+/Users/odds-kwang/Documents/Kwang/Project/Code Challenge/Isogram/IsogramTest/obj/Debug/netcoreapp2.2/IsogramTest.csproj.CoreCompileInputs.cache
+/Users/odds-kwang/Documents/Kwang/Project/Code Challenge/Isogram/IsogramTest/obj/Debug/netcoreapp2.2/IsogramTest.AssemblyInfoInputs.cache
+/Users/odds-kwang/Documents/Kwang/Project/Code Challenge/Isogram/IsogramTest/obj/Debug/netcoreapp2.2/IsogramTest.AssemblyInfo.cs
+/Users/odds-kwang/Documents/Kwang/Project/Code Challenge/Isogram/IsogramTest/bin/Debug/netcoreapp2.2/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/odds-kwang/Documents/Kwang/Project/Code Challenge/Isogram/IsogramTest/bin/Debug/netcoreapp2.2/xunit.runner.reporters.netcoreapp10.dll
+/Users/odds-kwang/Documents/Kwang/Project/Code Challenge/Isogram/IsogramTest/bin/Debug/netcoreapp2.2/xunit.runner.utility.netcoreapp10.dll
+/Users/odds-kwang/Documents/Kwang/Project/Code Challenge/Isogram/IsogramTest/bin/Debug/netcoreapp2.2/IsogramTest.deps.json
+/Users/odds-kwang/Documents/Kwang/Project/Code Challenge/Isogram/IsogramTest/bin/Debug/netcoreapp2.2/IsogramTest.runtimeconfig.json
+/Users/odds-kwang/Documents/Kwang/Project/Code Challenge/Isogram/IsogramTest/bin/Debug/netcoreapp2.2/IsogramTest.runtimeconfig.dev.json
+/Users/odds-kwang/Documents/Kwang/Project/Code Challenge/Isogram/IsogramTest/bin/Debug/netcoreapp2.2/IsogramTest.dll
+/Users/odds-kwang/Documents/Kwang/Project/Code Challenge/Isogram/IsogramTest/bin/Debug/netcoreapp2.2/IsogramTest.pdb
+/Users/odds-kwang/Documents/Kwang/Project/Code Challenge/Isogram/IsogramTest/bin/Debug/netcoreapp2.2/Isogram.dll
+/Users/odds-kwang/Documents/Kwang/Project/Code Challenge/Isogram/IsogramTest/bin/Debug/netcoreapp2.2/Isogram.pdb
+/Users/odds-kwang/Documents/Kwang/Project/Code Challenge/Isogram/IsogramTest/obj/Debug/netcoreapp2.2/IsogramTest.csproj.CopyComplete
+/Users/odds-kwang/Documents/Kwang/Project/Code Challenge/Isogram/IsogramTest/obj/Debug/netcoreapp2.2/IsogramTest.dll
+/Users/odds-kwang/Documents/Kwang/Project/Code Challenge/Isogram/IsogramTest/obj/Debug/netcoreapp2.2/IsogramTest.pdb

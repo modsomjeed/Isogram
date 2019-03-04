@@ -1,0 +1,11 @@
+/Users/odds-kwang/Documents/Kwang/Project/Code Challenge/Isogram/Isogram/obj/Debug/netcoreapp2.2/Isogram.csprojAssemblyReference.cache
+/Users/odds-kwang/Documents/Kwang/Project/Code Challenge/Isogram/Isogram/obj/Debug/netcoreapp2.2/Isogram.csproj.CoreCompileInputs.cache
+/Users/odds-kwang/Documents/Kwang/Project/Code Challenge/Isogram/Isogram/obj/Debug/netcoreapp2.2/Isogram.AssemblyInfoInputs.cache
+/Users/odds-kwang/Documents/Kwang/Project/Code Challenge/Isogram/Isogram/obj/Debug/netcoreapp2.2/Isogram.AssemblyInfo.cs
+/Users/odds-kwang/Documents/Kwang/Project/Code Challenge/Isogram/Isogram/bin/Debug/netcoreapp2.2/Isogram.deps.json
+/Users/odds-kwang/Documents/Kwang/Project/Code Challenge/Isogram/Isogram/bin/Debug/netcoreapp2.2/Isogram.runtimeconfig.json
+/Users/odds-kwang/Documents/Kwang/Project/Code Challenge/Isogram/Isogram/bin/Debug/netcoreapp2.2/Isogram.runtimeconfig.dev.json
+/Users/odds-kwang/Documents/Kwang/Project/Code Challenge/Isogram/Isogram/bin/Debug/netcoreapp2.2/Isogram.dll
+/Users/odds-kwang/Documents/Kwang/Project/Code Challenge/Isogram/Isogram/bin/Debug/netcoreapp2.2/Isogram.pdb
+/Users/odds-kwang/Documents/Kwang/Project/Code Challenge/Isogram/Isogram/obj/Debug/netcoreapp2.2/Isogram.dll
+/Users/odds-kwang/Documents/Kwang/Project/Code Challenge/Isogram/Isogram/obj/Debug/netcoreapp2.2/Isogram.pdb
